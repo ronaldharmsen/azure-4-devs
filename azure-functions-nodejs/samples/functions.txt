@@ -1,0 +1,5 @@
+Azure Functions runs small pieces of code in response to events.
+A trigger starts the function: an HTTP request, a timer, a blob upload or a queue message.
+Bindings connect the function to other services without writing plumbing code.
+On a consumption plan you pay per execution and the platform scales out for you.
+Functions scale to zero when nothing happens, so an idle function app costs almost nothing.

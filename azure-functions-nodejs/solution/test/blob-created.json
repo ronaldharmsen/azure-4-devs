@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "eventType": "Microsoft.Storage.BlobCreated",
+    "subject": "/blobServices/default/containers/uploads/blobs/test.txt",
+    "eventTime": "2026-01-01T00:00:00Z",
+    "dataVersion": "",
+    "metadataVersion": "1",
+    "topic": "/subscriptions/local/resourceGroups/local/providers/Microsoft.Storage/storageAccounts/devstoreaccount1",
+    "data": {
+      "api": "PutBlob",
+      "blobType": "BlockBlob",
+      "url": "http://127.0.0.1:10000/devstoreaccount1/uploads/test.txt"
+    }
+  }
+]

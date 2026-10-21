@@ -1,0 +1,2 @@
+Azure Functions runs your code when something happens.
+A trigger starts it, bindings connect it to other services.

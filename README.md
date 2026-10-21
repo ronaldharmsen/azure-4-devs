@@ -10,7 +10,7 @@
 4. [A simple webjob](webjobs/webjobs-lab.md)
 4a. [Background processing with a WebJob](webjobs/webjobs-queue-lab.md)
 
-5. [Azure Function](azure-function-blob-trigger/blob-trigger-csharp-lab.md)
+5. [Azure Functions and Durable Functions with Node.js](azure-functions-nodejs/functions-nodejs-lab.md)
 
 6. [Azure Storage Tables](cosmosdb-quickstart/README.md)
 

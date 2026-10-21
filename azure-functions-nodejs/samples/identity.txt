@@ -1,0 +1,3 @@
+Managed identities let Azure resources authenticate without secrets in configuration.
+Grant the identity a role, such as Storage Blob Data Reader, and the code uses DefaultAzureCredential.
+Key Vault stores the secrets, keys and certificates that cannot be avoided.

@@ -1,0 +1,4 @@
+An Azure Storage account offers blobs, queues, tables and file shares.
+Blob storage holds unstructured data such as documents, images and backups.
+Queue storage offers simple, reliable messaging between components.
+Messages that keep failing end up in a poison queue for later inspection.

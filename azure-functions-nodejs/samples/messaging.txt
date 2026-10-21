@@ -1,0 +1,4 @@
+Service Bus is a message broker with queues, topics and subscriptions.
+Event Grid routes events from sources to handlers with push delivery.
+Event Hubs ingests millions of events per second for streaming scenarios.
+Choosing between them depends on whether you send commands, events or telemetry.

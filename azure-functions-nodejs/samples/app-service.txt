@@ -1,0 +1,3 @@
+Azure App Service hosts web applications, REST APIs and mobile backends.
+You pick a plan, which decides the compute and the price, and deploy one or more apps onto it.
+Deployment slots let you warm up a new version before swapping it into production.
