@@ -15,3 +15,7 @@
 6. [Azure Storage Tables](cosmosdb-quickstart/README.md)
 
 7. [CosmosDb](cosmosdb-quickstart/storage-tables-lab.md)
+
+8. Messaging with Azure Service Bus <br/>
+8a. [C# version](service-bus/servicebus-csharp-lab.md)<br/>
+8b. [Node.js version](service-bus/servicebus-nodejs-lab.md)

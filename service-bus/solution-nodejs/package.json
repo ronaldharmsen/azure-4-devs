@@ -1,0 +1,26 @@
+{
+  "name": "servicebus-lab",
+  "version": "1.0.0",
+  "description": "Azure Service Bus lab (Node.js)",
+  "main": "index.js",
+  "scripts": {
+    "send": "tsx --env-file=.env src/send.ts",
+    "send-invalid": "tsx --env-file=.env src/send-invalid.ts",
+    "receive": "tsx --env-file=.env src/receive.ts",
+    "process": "tsx --env-file=.env src/process.ts",
+    "dlq": "tsx --env-file=.env src/dlq.ts",
+    "publish": "tsx --env-file=.env src/publish.ts",
+    "subscribe": "tsx --env-file=.env src/subscribe.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@azure/service-bus": "^7.10.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "tsx": "^4.23.15"
+  }
+}
