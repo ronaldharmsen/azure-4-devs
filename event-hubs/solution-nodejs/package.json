@@ -1,0 +1,25 @@
+{
+  "name": "eventhubs-lab",
+  "version": "1.0.0",
+  "description": "Azure Event Hubs lab (Node.js)",
+  "main": "index.js",
+  "scripts": {
+    "send": "tsx --env-file=.env src/send.ts",
+    "info": "tsx --env-file=.env src/info.ts",
+    "read": "tsx --env-file=.env src/read.ts",
+    "process": "tsx --env-file=.env src/process.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@azure/event-hubs": "^6.0.4",
+    "@azure/eventhubs-checkpointstore-blob": "^2.0.0",
+    "@azure/storage-blob": "^12.34.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "tsx": "^4.23.15"
+  }
+}

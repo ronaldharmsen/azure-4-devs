@@ -19,3 +19,7 @@
 8. Messaging with Azure Service Bus <br/>
 8a. [C# version](service-bus/servicebus-csharp-lab.md)<br/>
 8b. [Node.js version](service-bus/servicebus-nodejs-lab.md)
+
+9. Streaming with Azure Event Hubs <br/>
+9a. [C# version](event-hubs/eventhubs-csharp-lab.md)<br/>
+9b. [Node.js version](event-hubs/eventhubs-nodejs-lab.md)
